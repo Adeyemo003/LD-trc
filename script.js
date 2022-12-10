@@ -20,7 +20,7 @@ else {
   console.log("no")
 }
 
-deleteBtn.addEventListener("dblclick", function() {
+deleteBtn.addEventListener("click", function() {
   myLeads = []
   localStorage.clear()
   ulEl.innerHTML = ""
