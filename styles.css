@@ -3,7 +3,7 @@ html, body {
     margin: 0;
     padding: 1rem; 
     font-family: Arial, Helvetica, sans-serif;
-    min-width: 300px;
+    min-width: 500px;
     background-color: black;
 }
 
@@ -57,7 +57,7 @@ button {
     font-size: 0.8rem;
 }
 
-#delete-btn {
+#save-btn {
     background-color: white;
     color: black;
     border: solid 1.5px white;
